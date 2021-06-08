@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(./2187256.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#map {
+  width: 550px;
+  height: 450px;
+}
+
+.sec-back{
+    opacity: 0.9;
+}
